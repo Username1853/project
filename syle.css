@@ -1,0 +1,38 @@
+.header{
+background-color: orange;
+text-decoration: none;
+
+}
+a{
+font-size: 75px;
+padding-right: 175px;
+text-decoration: none;
+color: white;
+}
+img{
+    width: 370px;
+    height: 360px;
+
+}
+div{
+    padding-left: 0px;
+}
+body{
+background-image:url("https://cdn.pixabay.com/video/2022/02/10/107310-676158773_tiny.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h2{
+color: white;
+}
+h1{
+    color: white;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        }
+        footer{
+            padding-top: 730px;
+        }
+    
