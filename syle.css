@@ -7,7 +7,7 @@ a{
 font-size: 75px;
 padding-right: 175px;
 text-decoration: none;
-color: white;
+color: rgb(0, 0, 0);
 }
 img{
     width: 370px;
@@ -18,21 +18,27 @@ div{
     padding-left: 0px;
 }
 body{
-background-image:url("https://cdn.pixabay.com/video/2022/02/10/107310-676158773_tiny.jpg") ;
+background-image:url("https://images.unsplash.com/photo-1636955840493-f43a02bfa064?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3") ;
 background-repeat: no-repeat;
 background-size: cover;
 }
 h2{
-color: white;
+color: rgb(0, 0, 0);
 }
 h1{
-    color: white;
+    color: rgb(0, 0, 0);
     }
     p{
-        color: white;
+        color: rgb(0, 0, 0);
         font-size: 20px;
         }
         footer{
             padding-top: 730px;
         }
     
+        @media screen and (min-width: 60px) {
+            
+        }
+              @media screen and (min-height: 60px) {
+            
+        }
